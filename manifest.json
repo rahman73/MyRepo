@@ -1,0 +1,11 @@
+{
+  "name": "Toyota Alphard Brochure iFrame",
+  "description": "Menampilkan halaman brosur Toyota Alphard dalam iframe di Looker Studio",
+  "resources": {
+    "js": ["index.js"]
+  },
+  "visualization": {
+    "id": "alphard-iframe-viz",
+    "render": "iframeViz.render"
+  }
+}
